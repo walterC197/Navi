@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Navi NL Microcar",
+    "slug": "navi-nl-microcar",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "nl.navi.microcar"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
